@@ -1,0 +1,5 @@
+source "/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/esp-idf/components/efuse/Kconfig"
+source "/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/esp-idf/components/esp32/Kconfig"
+source "/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/esp-idf/components/esp_common/Kconfig"
+source "/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/esp-idf/components/log/Kconfig"
+source "/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/esp-idf/components/spi_flash/Kconfig"
