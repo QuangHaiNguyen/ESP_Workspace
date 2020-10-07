@@ -1,3 +1,0 @@
-source "/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/esp-idf/components/bootloader/Kconfig.projbuild"
-source "/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/esp-idf/components/partition_table/Kconfig.projbuild"
