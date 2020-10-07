@@ -2,10 +2,6 @@
 
 #author: Quang Hai Nguyen
 #version: 0.99
-<<<<<<< HEAD
-
-echo Create new project
-=======
 echo
 echo
 echo "#################################"
@@ -32,4 +28,3 @@ fi
 echo
 echo
 
->>>>>>> 367277c940c015e38d12b87ade1e33551c729543
