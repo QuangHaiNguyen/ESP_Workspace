@@ -1,0 +1,38 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "idf.py build"
+        },
+
+        {
+            "label": "clean",
+            "type": "shell",
+            "command": "idf.py clean"
+        },
+
+        {
+            "label": "fullclean",
+            "type": "shell",
+            "command": "idf.py fullclean"
+        },
+
+        {
+            "label": "flash",
+            "type": "shell",
+            "command": "idf.py -p /dev/ttyUSB0 flash monitor"
+        },
+
+        {
+            "label": "check empty",
+            "type": "shell",
+            "command": "if [ -z $path ]; then echo path is empty, please run init task; fi"
+        }
+
+
+    ]
+}
