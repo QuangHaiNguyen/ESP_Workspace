@@ -13,6 +13,7 @@
 #include "esp_system.h"
 #include "esp_spi_flash.h"
 #include "soc/rtc_wdt.h"
+#include "../component/test_component/test_component.h"
 
 void app_main(void)
 {
@@ -34,6 +35,7 @@ void app_main(void)
             (chip_info.features & CHIP_FEATURE_EMB_FLASH) ? "embedded" : "external");
 
     printf("Minimum free heap size: %d bytes\n", esp_get_minimum_free_heap_size());
+    ComponentInit();
     printf("Type Ctrl-] to quit monitoring\n");
     while(1)
     {

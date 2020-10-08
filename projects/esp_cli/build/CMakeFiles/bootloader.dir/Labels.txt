@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles/bootloader
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles/bootloader.rule
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles/bootloader-complete.rule
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

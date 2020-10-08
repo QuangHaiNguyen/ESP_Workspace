@@ -1,2 +1,8 @@
-idf_component_register(SRCS "main.c" "../component/test_component/test_component.c"
-                    INCLUDE_DIRS "")
+      
+set(COMPONENT_REQUIRES )
+set(COMPONENT_PRIV_REQUIRES )
+
+set(COMPONENT_SRCS "main.c" "../component/test_component/test_component.c")
+set(COMPONENT_ADD_INCLUDEDIRS "")
+
+register_component()
