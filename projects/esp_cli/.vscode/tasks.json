@@ -8,23 +8,28 @@
             "type": "shell",
             "command": "idf.py build"
         },
-
         {
             "label": "clean",
             "type": "shell",
             "command": "idf.py clean"
         },
-
         {
             "label": "fullclean",
             "type": "shell",
             "command": "idf.py fullclean"
         },
-
         {
             "label": "flash",
             "type": "shell",
-            "command": "idf.py -p /dev/ttyUSB0 flash monitor"
+            "command": "idf.py -p /dev/ttyUSB0 flash monitor",
+            "problemMatcher": []
+        },
+
+        {
+            "label": "serial",
+            "type": "shell",
+            "command": "minicom -D /dev/ttyUSB0",
+            "problemMatcher": []
         }
     ]
 }

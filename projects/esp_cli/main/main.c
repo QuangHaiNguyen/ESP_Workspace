@@ -14,27 +14,59 @@
 #include "esp_spi_flash.h"
 #include "soc/rtc_wdt.h"
 #include "../component/test_component/test_component.h"
-#include "../HAL/UART/ESP_UART.h"
+#include "../component/cli/cli.h"
+#include "../HAL/UART/HAL_UART.h"
 #include "freertos/queue.h"
 #include "driver/uart.h"
 
-void app_main(void)
+void Help(void)
+{
+    printf("help\n");
+}
+
+void Test(void)
+{
+    printf("test\n");
+}
+
+command_t command_table[2] =
+{
+    {"help", Help},
+    {"test", Test}
+};
+
+static void uart_task(void *pvParameters)
 {
     uint8_t ch;
-    HAL_Status statuS;
-    rtc_wdt_disable();
-    statuS = Esp32_UART_Init();
-    if(HAL_OK != statuS)
+    uint8_t count = 0;
+    HAL_Status status;
+    HAL_Uart uart;
+    status = HAL_UART_Init(&uart);
+    CLI_Init(command_table, 2);
+    if(HAL_OK != status)
     {
-        printf("error");
+        printf("error\n");
     }
-    //Esp32_UART_Write("hello world\n", 12);
-    printf("here\n");
+    status = uart.HAL_UART_Open();
+    if(HAL_OK != status)
+    {
+        printf("error\n");
+    }
+    printf("uart is initialized\n");
     while(1)
     {
-        //Esp32_UART_Read(&ch, 1);
-        //Esp32_UART_Write(&ch, 1);
-        vTaskDelay(1000);
-        printf("here\n");
+        vTaskDelay(2);
+        count = uart.HAL_UART_Read(&ch, 1);
+        if(count != 0)
+        {
+            CLI_GetChar(ch);
+        }
+        CLI_ProccessCommand();
     }
+}
+
+void app_main(void)
+{
+    rtc_wdt_disable();
+    xTaskCreate(uart_task, "uart_task", 2048, NULL, 12, NULL);  
 }

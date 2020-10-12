@@ -2196,12 +2196,12 @@ CMakeFiles/monitor.dir/clean:
 CMakeFiles/_project_elf_src.dir/all:
 	$(MAKE) -f CMakeFiles/_project_elf_src.dir/build.make CMakeFiles/_project_elf_src.dir/depend
 	$(MAKE) -f CMakeFiles/_project_elf_src.dir/build.make CMakeFiles/_project_elf_src.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles --progress-num=87 "Built target _project_elf_src"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles --progress-num= "Built target _project_elf_src"
 .PHONY : CMakeFiles/_project_elf_src.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_project_elf_src.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_project_elf_src.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : CMakeFiles/_project_elf_src.dir/rule
@@ -2309,7 +2309,7 @@ esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/all: esp-idf/mbedtls/CMakeFiles/__idf
 
 # Build rule for subdir invocation for target.
 esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/rule
@@ -2363,7 +2363,7 @@ esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/all: esp-idf/mbedtls/mbedtls/librar
 
 # Build rule for subdir invocation for target.
 esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/rule
@@ -2417,7 +2417,7 @@ esp-idf/mbedtls/mbedtls/library/CMakeFiles/lib.dir/all: esp-idf/xtensa/CMakeFile
 
 # Build rule for subdir invocation for target.
 esp-idf/mbedtls/mbedtls/library/CMakeFiles/lib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/mbedtls/mbedtls/library/CMakeFiles/lib.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/mbedtls/mbedtls/library/CMakeFiles/lib.dir/rule
@@ -2444,7 +2444,7 @@ esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/all: esp-idf/mbedtls/mbed
 
 # Build rule for subdir invocation for target.
 esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 64
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/rule
@@ -2471,7 +2471,7 @@ esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/all: esp-idf/mbedtls/mbe
 
 # Build rule for subdir invocation for target.
 esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 63
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 64
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/rule
@@ -2498,7 +2498,7 @@ esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/all: esp-idf/efuse/CMa
 
 # Build rule for subdir invocation for target.
 esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 62
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 63
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/rule
@@ -2633,7 +2633,7 @@ esp-idf/efuse/CMakeFiles/__idf_efuse.dir/all: esp-idf/bootloader_support/CMakeFi
 
 # Build rule for subdir invocation for target.
 esp-idf/efuse/CMakeFiles/__idf_efuse.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 54
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 55
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/efuse/CMakeFiles/__idf_efuse.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/efuse/CMakeFiles/__idf_efuse.dir/rule
@@ -2660,7 +2660,7 @@ esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/all: esp-idf/
 
 # Build rule for subdir invocation for target.
 esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 53
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 54
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/rule
@@ -2795,7 +2795,7 @@ esp-idf/app_update/CMakeFiles/__idf_app_update.dir/all: esp-idf/esp_ipc/CMakeFil
 
 # Build rule for subdir invocation for target.
 esp-idf/app_update/CMakeFiles/__idf_app_update.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 52
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 53
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/app_update/CMakeFiles/__idf_app_update.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/app_update/CMakeFiles/__idf_app_update.dir/rule
@@ -2822,7 +2822,7 @@ esp-idf/esp_ipc/CMakeFiles/__idf_esp_ipc.dir/all: esp-idf/spi_flash/CMakeFiles/_
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_ipc/CMakeFiles/__idf_esp_ipc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 52
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 53
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_ipc/CMakeFiles/__idf_esp_ipc.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_ipc/CMakeFiles/__idf_esp_ipc.dir/rule
@@ -2849,7 +2849,7 @@ esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/all: esp-idf/nvs_flash/CMakeFil
 
 # Build rule for subdir invocation for target.
 esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 52
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 53
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/rule
@@ -2876,7 +2876,7 @@ esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/all: esp-idf/pthread/CMakeFiles
 
 # Build rule for subdir invocation for target.
 esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 50
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 51
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/rule
@@ -2903,7 +2903,7 @@ esp-idf/pthread/CMakeFiles/__idf_pthread.dir/all: esp-idf/esp_system/CMakeFiles/
 
 # Build rule for subdir invocation for target.
 esp-idf/pthread/CMakeFiles/__idf_pthread.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 49
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 50
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/pthread/CMakeFiles/__idf_pthread.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/pthread/CMakeFiles/__idf_pthread.dir/rule
@@ -2930,7 +2930,7 @@ esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/all: esp-idf/esp_rom/CMakeFil
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 49
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 50
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/rule
@@ -2957,7 +2957,7 @@ esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/all: esp-idf/hal/CMakeFiles/__idf_h
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 48
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/rule
@@ -2984,7 +2984,7 @@ esp-idf/hal/CMakeFiles/__idf_hal.dir/all: esp-idf/soc/CMakeFiles/__idf_soc.dir/a
 
 # Build rule for subdir invocation for target.
 esp-idf/hal/CMakeFiles/__idf_hal.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 48
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/hal/CMakeFiles/__idf_hal.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/hal/CMakeFiles/__idf_hal.dir/rule
@@ -3011,7 +3011,7 @@ esp-idf/soc/CMakeFiles/__idf_soc.dir/all: esp-idf/soc/soc/esp32/CMakeFiles/soc_e
 
 # Build rule for subdir invocation for target.
 esp-idf/soc/CMakeFiles/__idf_soc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 44
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 45
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/soc/CMakeFiles/__idf_soc.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/soc/CMakeFiles/__idf_soc.dir/rule
@@ -3038,7 +3038,7 @@ esp-idf/soc/soc/esp32/CMakeFiles/soc_esp32.dir/all: esp-idf/vfs/CMakeFiles/__idf
 
 # Build rule for subdir invocation for target.
 esp-idf/soc/soc/esp32/CMakeFiles/soc_esp32.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 43
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 44
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/soc/soc/esp32/CMakeFiles/soc_esp32.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/soc/soc/esp32/CMakeFiles/soc_esp32.dir/rule
@@ -3065,7 +3065,7 @@ esp-idf/vfs/CMakeFiles/__idf_vfs.dir/all: esp-idf/esp_eth/CMakeFiles/__idf_esp_e
 
 # Build rule for subdir invocation for target.
 esp-idf/vfs/CMakeFiles/__idf_vfs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 41
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 42
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/vfs/CMakeFiles/__idf_vfs.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/vfs/CMakeFiles/__idf_vfs.dir/rule
@@ -3092,7 +3092,7 @@ esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/all: esp-idf/tcpip_adapter/CMakeFil
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 41
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 42
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/rule
@@ -3119,7 +3119,7 @@ esp-idf/tcpip_adapter/CMakeFiles/__idf_tcpip_adapter.dir/all: esp-idf/esp_netif/
 
 # Build rule for subdir invocation for target.
 esp-idf/tcpip_adapter/CMakeFiles/__idf_tcpip_adapter.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 40
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 41
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/tcpip_adapter/CMakeFiles/__idf_tcpip_adapter.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/tcpip_adapter/CMakeFiles/__idf_tcpip_adapter.dir/rule
@@ -3146,7 +3146,7 @@ esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/all: esp-idf/esp_event/CMakeFil
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 40
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 41
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/rule
@@ -3173,7 +3173,7 @@ esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/all: esp-idf/wpa_supplicant/CMa
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 39
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 40
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/rule
@@ -3200,7 +3200,7 @@ esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/all: esp-idf/esp_wifi
 
 # Build rule for subdir invocation for target.
 esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 39
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 40
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/rule
@@ -3227,7 +3227,7 @@ esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/all: esp-idf/lwip/CMakeFiles/__id
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 30
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 31
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/rule
@@ -3254,7 +3254,7 @@ esp-idf/lwip/CMakeFiles/__idf_lwip.dir/all: esp-idf/log/CMakeFiles/__idf_log.dir
 
 # Build rule for subdir invocation for target.
 esp-idf/lwip/CMakeFiles/__idf_lwip.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 28
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 29
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/lwip/CMakeFiles/__idf_lwip.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/lwip/CMakeFiles/__idf_lwip.dir/rule
@@ -3276,12 +3276,12 @@ esp-idf/lwip/CMakeFiles/__idf_lwip.dir/clean:
 esp-idf/log/CMakeFiles/__idf_log.dir/all: esp-idf/heap/CMakeFiles/__idf_heap.dir/all
 	$(MAKE) -f esp-idf/log/CMakeFiles/__idf_log.dir/build.make esp-idf/log/CMakeFiles/__idf_log.dir/depend
 	$(MAKE) -f esp-idf/log/CMakeFiles/__idf_log.dir/build.make esp-idf/log/CMakeFiles/__idf_log.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles --progress-num= "Built target __idf_log"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles --progress-num=49 "Built target __idf_log"
 .PHONY : esp-idf/log/CMakeFiles/__idf_log.dir/all
 
 # Build rule for subdir invocation for target.
 esp-idf/log/CMakeFiles/__idf_log.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 19
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 20
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/log/CMakeFiles/__idf_log.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/log/CMakeFiles/__idf_log.dir/rule
@@ -3491,12 +3491,12 @@ esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/all: esp-idf/wifi_p
 esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/all: esp-idf/main/CMakeFiles/__idf_main.dir/all
 	$(MAKE) -f esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/build.make esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/depend
 	$(MAKE) -f esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/build.make esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles --progress-num= "Built target __ldgen_output_esp32.project.ld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles --progress-num=87 "Built target __ldgen_output_esp32.project.ld"
 .PHONY : esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/all
 
 # Build rule for subdir invocation for target.
 esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 99
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 100
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp32/CMakeFiles/__ldgen_output_esp32.project.ld.dir/rule
@@ -3712,7 +3712,7 @@ esp-idf/asio/CMakeFiles/__idf_asio.dir/all: esp-idf/xtensa/CMakeFiles/__idf_xten
 
 # Build rule for subdir invocation for target.
 esp-idf/asio/CMakeFiles/__idf_asio.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/asio/CMakeFiles/__idf_asio.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/asio/CMakeFiles/__idf_asio.dir/rule
@@ -3793,7 +3793,7 @@ esp-idf/cbor/CMakeFiles/__idf_cbor.dir/all: esp-idf/xtensa/CMakeFiles/__idf_xten
 
 # Build rule for subdir invocation for target.
 esp-idf/cbor/CMakeFiles/__idf_cbor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/cbor/CMakeFiles/__idf_cbor.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/cbor/CMakeFiles/__idf_cbor.dir/rule
@@ -3820,7 +3820,7 @@ esp-idf/unity/CMakeFiles/__idf_unity.dir/all: esp-idf/xtensa/CMakeFiles/__idf_xt
 
 # Build rule for subdir invocation for target.
 esp-idf/unity/CMakeFiles/__idf_unity.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/unity/CMakeFiles/__idf_unity.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/unity/CMakeFiles/__idf_unity.dir/rule
@@ -3848,7 +3848,7 @@ esp-idf/cmock/CMakeFiles/__idf_cmock.dir/all: esp-idf/unity/CMakeFiles/__idf_uni
 
 # Build rule for subdir invocation for target.
 esp-idf/cmock/CMakeFiles/__idf_cmock.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/cmock/CMakeFiles/__idf_cmock.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/cmock/CMakeFiles/__idf_cmock.dir/rule
@@ -3875,7 +3875,7 @@ esp-idf/coap/CMakeFiles/__idf_coap.dir/all: esp-idf/xtensa/CMakeFiles/__idf_xten
 
 # Build rule for subdir invocation for target.
 esp-idf/coap/CMakeFiles/__idf_coap.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 68
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 69
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/coap/CMakeFiles/__idf_coap.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/coap/CMakeFiles/__idf_coap.dir/rule
@@ -3902,7 +3902,7 @@ esp-idf/console/CMakeFiles/__idf_console.dir/all: esp-idf/xtensa/CMakeFiles/__id
 
 # Build rule for subdir invocation for target.
 esp-idf/console/CMakeFiles/__idf_console.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/console/CMakeFiles/__idf_console.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/console/CMakeFiles/__idf_console.dir/rule
@@ -3983,7 +3983,7 @@ esp-idf/esp_adc_cal/CMakeFiles/__idf_esp_adc_cal.dir/all: esp-idf/xtensa/CMakeFi
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_adc_cal/CMakeFiles/__idf_esp_adc_cal.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_adc_cal/CMakeFiles/__idf_esp_adc_cal.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_adc_cal/CMakeFiles/__idf_esp_adc_cal.dir/rule
@@ -4010,7 +4010,7 @@ esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/all: esp-idf/xtensa/CMakeFi
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/rule
@@ -4037,7 +4037,7 @@ esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/all: esp-idf/xtensa/CMakeFiles/__id
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/rule
@@ -4172,7 +4172,7 @@ esp-idf/protobuf-c/CMakeFiles/__idf_protobuf-c.dir/all: esp-idf/xtensa/CMakeFile
 
 # Build rule for subdir invocation for target.
 esp-idf/protobuf-c/CMakeFiles/__idf_protobuf-c.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/protobuf-c/CMakeFiles/__idf_protobuf-c.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/protobuf-c/CMakeFiles/__idf_protobuf-c.dir/rule
@@ -4201,7 +4201,7 @@ esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/all: esp-idf/protobuf-c/CMakeFi
 
 # Build rule for subdir invocation for target.
 esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/rule
@@ -4229,7 +4229,7 @@ esp-idf/mdns/CMakeFiles/__idf_mdns.dir/all: esp-idf/console/CMakeFiles/__idf_con
 
 # Build rule for subdir invocation for target.
 esp-idf/mdns/CMakeFiles/__idf_mdns.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/mdns/CMakeFiles/__idf_mdns.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/mdns/CMakeFiles/__idf_mdns.dir/rule
@@ -4260,7 +4260,7 @@ esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/all: esp-idf/mdns/CMa
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 68
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/rule
@@ -4341,7 +4341,7 @@ esp-idf/esp_websocket_client/CMakeFiles/__idf_esp_websocket_client.dir/all: esp-
 
 # Build rule for subdir invocation for target.
 esp-idf/esp_websocket_client/CMakeFiles/__idf_esp_websocket_client.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/esp_websocket_client/CMakeFiles/__idf_esp_websocket_client.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/esp_websocket_client/CMakeFiles/__idf_esp_websocket_client.dir/rule
@@ -4422,7 +4422,7 @@ esp-idf/expat/CMakeFiles/__idf_expat.dir/all: esp-idf/xtensa/CMakeFiles/__idf_xt
 
 # Build rule for subdir invocation for target.
 esp-idf/expat/CMakeFiles/__idf_expat.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/expat/CMakeFiles/__idf_expat.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/expat/CMakeFiles/__idf_expat.dir/rule
@@ -4449,7 +4449,7 @@ esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/all: esp-idf/xtensa/C
 
 # Build rule for subdir invocation for target.
 esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/rule
@@ -4477,7 +4477,7 @@ esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/all: esp-idf/wear_levelling/CMakeFiles/
 
 # Build rule for subdir invocation for target.
 esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 68
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/rule
@@ -4504,7 +4504,7 @@ esp-idf/freemodbus/CMakeFiles/__idf_freemodbus.dir/all: esp-idf/xtensa/CMakeFile
 
 # Build rule for subdir invocation for target.
 esp-idf/freemodbus/CMakeFiles/__idf_freemodbus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 69
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 70
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/freemodbus/CMakeFiles/__idf_freemodbus.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/freemodbus/CMakeFiles/__idf_freemodbus.dir/rule
@@ -4531,7 +4531,7 @@ esp-idf/jsmn/CMakeFiles/__idf_jsmn.dir/all: esp-idf/xtensa/CMakeFiles/__idf_xten
 
 # Build rule for subdir invocation for target.
 esp-idf/jsmn/CMakeFiles/__idf_jsmn.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 65
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/jsmn/CMakeFiles/__idf_jsmn.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/jsmn/CMakeFiles/__idf_jsmn.dir/rule
@@ -4558,7 +4558,7 @@ esp-idf/json/CMakeFiles/__idf_json.dir/all: esp-idf/xtensa/CMakeFiles/__idf_xten
 
 # Build rule for subdir invocation for target.
 esp-idf/json/CMakeFiles/__idf_json.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/json/CMakeFiles/__idf_json.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/json/CMakeFiles/__idf_json.dir/rule
@@ -4580,7 +4580,7 @@ esp-idf/json/CMakeFiles/__idf_json.dir/clean:
 esp-idf/libsodium/CMakeFiles/__idf_libsodium.dir/all: esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/all
 	$(MAKE) -f esp-idf/libsodium/CMakeFiles/__idf_libsodium.dir/build.make esp-idf/libsodium/CMakeFiles/__idf_libsodium.dir/depend
 	$(MAKE) -f esp-idf/libsodium/CMakeFiles/__idf_libsodium.dir/build.make esp-idf/libsodium/CMakeFiles/__idf_libsodium.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles --progress-num=38,39,40,41,42,43,44,45,46,47,48,49 "Built target __idf_libsodium"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles --progress-num=38,39,40,41,42,43,44,45,46,47,48 "Built target __idf_libsodium"
 .PHONY : esp-idf/libsodium/CMakeFiles/__idf_libsodium.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4612,7 +4612,7 @@ esp-idf/mqtt/CMakeFiles/__idf_mqtt.dir/all: esp-idf/xtensa/CMakeFiles/__idf_xten
 
 # Build rule for subdir invocation for target.
 esp-idf/mqtt/CMakeFiles/__idf_mqtt.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/mqtt/CMakeFiles/__idf_mqtt.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/mqtt/CMakeFiles/__idf_mqtt.dir/rule
@@ -4639,7 +4639,7 @@ esp-idf/openssl/CMakeFiles/__idf_openssl.dir/all: esp-idf/xtensa/CMakeFiles/__id
 
 # Build rule for subdir invocation for target.
 esp-idf/openssl/CMakeFiles/__idf_openssl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/openssl/CMakeFiles/__idf_openssl.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/openssl/CMakeFiles/__idf_openssl.dir/rule
@@ -4666,7 +4666,7 @@ esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/all: esp-idf/xtensa/CMakeFiles/__idf_
 
 # Build rule for subdir invocation for target.
 esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 66
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 67
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/rule
@@ -4726,7 +4726,7 @@ esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/all: esp-idf/js
 
 # Build rule for subdir invocation for target.
 esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 68
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 69
 	$(MAKE) -f CMakeFiles/Makefile2 esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/haing/Nextcloud/MyWork/Embedded/ESP/ESP_Workspace/projects/esp_cli/build/CMakeFiles 0
 .PHONY : esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/rule
